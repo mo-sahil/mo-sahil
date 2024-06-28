@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Mo Sahil 👋
 
-<!--
-**mo-sahil/mo-sahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech CSE Student at LPU
 
-Here are some ideas to get you started:
+I am currently pursuing my B.Tech in Computer Science and Engineering at Lovely Professional University (LPU). I have a strong passion for coding and continuously expanding my knowledge in various programming languages and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages I Know
+
+- **C++**
+- **Java**
+- **C**
+- **R**
+- **Python**
+- **SQL**
+
+### 📫 How to Reach Me
+
+- **Email:** [sahilbmu@gmail.com](mailto:sahilbmu@gmail.com)
+
+### ⚡ Fun Fact
+
+I love exploring new technologies and applying them to solve real-world problems. When I'm not coding, you can find me reading tech blogs, playing video games, or enjoying bollywood songs.
+
+### 📈 GitHub Stats
+
+![Mo Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-sahil&show_icons=true&theme=radical)
+
+Feel free to explore my repositories and projects. Let's connect and collaborate on exciting projects!
