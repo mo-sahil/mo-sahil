@@ -17,6 +17,9 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at Lovely 
 
 - **Email:** [sahilbmu@gmail.com](mailto:sahilbmu@gmail.com)
 
+- 
+- ![Leetcode Stats](https://leetcard.jacoblin.cool/Mo-Sahill)
+
 ### ⚡ Fun Fact
 
 I love exploring new technologies and applying them to solve real-world problems. When I'm not coding, you can find me reading tech blogs, playing video games, or enjoying bollywood songs.
