@@ -18,7 +18,6 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at Lovely 
 - **Email:** [sahilbmu@gmail.com](mailto:sahilbmu@gmail.com)
 
 - 
-- ![Leetcode Stats](https://leetcard.jacoblin.cool/Mo-Sahill)
 
 ### ⚡ Fun Fact
 
@@ -29,3 +28,7 @@ I love exploring new technologies and applying them to solve real-world problems
 ![Mo Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-sahil&show_icons=true&theme=radical)
 
 Feel free to explore my repositories and projects. Let's connect and collaborate on exciting projects!
+
+### 📈 Leetcode Stats
+
+- ![Leetcode Stats](https://leetcard.jacoblin.cool/Mo-Sahill)
