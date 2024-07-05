@@ -31,4 +31,4 @@ Feel free to explore my repositories and projects. Let's connect and collaborate
 
 ### 📈 Leetcode Stats
 
-- ![Leetcode Stats](https://leetcard.jacoblin.cool/Mo-Sahill)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Mo-Sahill)
